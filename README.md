@@ -23,7 +23,11 @@
 </div>
 
 <br>
-
+## Github Stats
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=chetna7121&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=chetna7121&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=chetna7121&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+<br>
 ## Github Stats
 <div align="center" >
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=chetna7121&show_icons=true&theme=algolia"> <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetna7121&layout=compact&theme=algolia">
