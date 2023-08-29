@@ -1,9 +1,12 @@
 # Hi there! I'm Chetna Mishra ✨
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 * 🤖A Data Science and ML Enthusiast
 * 💻Currently learning Full Stack Web Development and exploring various technologies
 * 😀I participate in coding contests and open-source contributions
 ### Interests >👀 Coding, Creative writing and Classical Dance
-
+<br>
 ## Connect With Me 👇
 <div>
 <a  href="https://www.linkedin.com/in/chetna-m-a26604231/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
