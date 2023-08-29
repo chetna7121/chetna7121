@@ -3,7 +3,7 @@
 * 💻Currently learning Full Stack Web Development and exploring various technologies
 * 😀I participate in coding contests and open-source contributions
 ### Interests >👀 Coding, Creative writing and Classical Dance
-### Languages and Tools : <div>
+## Languages and Tools : <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="React" alt="Bootstrap" width="40" height="40"/>&nbsp;
