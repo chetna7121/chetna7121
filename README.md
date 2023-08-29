@@ -3,6 +3,9 @@
 * 💻Currently learning Full Stack Web Development and exploring various technologies
 * 😀I participate in coding contests and open-source contributions
 ### Interests >👀 Coding, Creative writing, Classical Dance
+<img src="https://raw.githubusercontent.com/chetna7121/chetna7121/master/gh-header-image-cropped.png" alt="banner that says Chetna Mishra - Frontend Web developer, I participate in coding contests and open-source contributions">
+
+<br>
 
 ## Connect With Me 👇
 <div>
